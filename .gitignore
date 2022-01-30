@@ -1,0 +1,12 @@
+**/bin/Debug/
+**/bin/Release/
+**/packages/
+AGDataNUnit/AGData.UI.NUnit/bin/
+AGDataNUnit/AGData.WebAPI.NUnit/bin/
+AGDataNUnit/AGData.UI.NUnit/obj/
+AGDataNUnit/AGData.WebAPI.NUnit/obj/
+AGDataNUnit/AGData.UI.NUnit/.vs/
+AGDataNUnit/AGData.WebAPI.NUnit/.vs/
+AGDataNUnit/AGData.UI.NUnit/packages/
+AGDataNUnit/AGData.WebAPI.NUnit/packages/
+AGDataNUnit/packages/
